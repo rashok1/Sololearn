@@ -20,9 +20,8 @@ Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Os1t025/SoloLearn.git
 ```
-### 2. Install PHP
+###  Install PHP
 Make sure PHP is installed on your system. You can check with:
 ```bash
 php -v
