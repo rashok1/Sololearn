@@ -1,7 +1,6 @@
 # 💻 SoloLearn Project
 
-Welcome to **SoloLearn** — a web application inspired by Duolingo, but designed for learning **programming languages**. This project includes gamified elements like leaderboards, interactive quizzes, profiles, badges, and even a community feature powered by the Reddit API.
-
+Welcome to **SoloLearn** — a dynamic web application inspired by Duolingo, designed to help beginners learn multiple programming languages simultaneously. SoloLearn offers an engaging and interactive experience, providing a comprehensive overview of core coding fundamentals of multiple languages such as **C, JAVA, Python ** through gamified elements like leaderboards, quizzes, badges, and personalized profiles. It also features a built-in community powered by the Reddit API, encouraging collaboration and peer support.
 ---
 
 ## 🚀 Features
